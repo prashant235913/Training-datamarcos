@@ -28,6 +28,9 @@ To create this repository, I followed a straightforward process:
 4. **Content Development:** All the training materials, including text explanations and potentially additional resources like code examples, were prepared within the local folder.
 5. **Pushing Content:** Finally, I used the `git push` command to upload the local content to the remote repository on GitHub. This makes it accessible to you and any training participants.
 
+(Git add and git commit is not discussed for the ese of explanation.Thanks)
+
+
 **Why I Structured It This Way**
 
 I've structured the repository this way to demonstrate my commitment to clear and organized training delivery. By breaking down the content into focused sections, I aim to enhance learner comprehension and engagement. Additionally, this approach allows for easy updates and additions as needed.
